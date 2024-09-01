@@ -11,7 +11,7 @@
 * 
 
 ### 📫 Udemy Projects
-* [Python-Data-Analysis](https://github.com/moqiqiqi/Python-Data-Analysis)
+* [Python-Data-Analysis](https://github.com/moqiqiqi/Python-Data-Analysis/tree/main/Udemy_Course_Practice_Projects)
 
 ### ⚡ College Projects
 
