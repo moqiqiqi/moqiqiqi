@@ -8,10 +8,10 @@
 ### 🔭 Personal Portfolio
 
 ### 🌱 Forage Projects 
-* 
+* [Python-Data-Analysis-Forage](https://github.com/moqiqiqi/Python-Data-Analysis/tree/main/Udemy_Course_Practice_Projects)
 
 ### 📫 Udemy Projects
-* [Python-Data-Analysis](https://github.com/moqiqiqi/Python-Data-Analysis/tree/main/Udemy_Course_Practice_Projects)
+* [Python-Data-Analysis-Udemy](https://github.com/moqiqiqi/Python-Data-Analysis/tree/main/Udemy_Course_Practice_Projects)
 
 ### ⚡ College Projects
 
