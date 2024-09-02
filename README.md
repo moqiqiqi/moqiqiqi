@@ -14,6 +14,6 @@
 * [Udemy-Python Data Analysis Crash Course](https://github.com/moqiqiqi/Python-Data-Analysis/tree/main/Udemy_Course_Practice_Projects) -Python,Jupyter Notebook
 
 ### ⚡ UCC Projects
-* [Data Analysis for Thesis](https://github.com/moqiqiqi/Python-Data-Analysis/blob/main/Forage/Accenture.ipynb) -Python,Jupyter Notebook,Excel
+* [Data Analysis for Thesis](https://github.com/moqiqiqi/Python-Data-Analysis/blob/main/UCC%20Projects/Data%20Analysis%20For%20the%20Theis.ipynb) -Python,Jupyter Notebook,Excel
 * [BI Assignment](https://github.com/moqiqiqi/Python-Data-Analysis/blob/main/Forage/Accenture.ipynb) -Tableau
 
