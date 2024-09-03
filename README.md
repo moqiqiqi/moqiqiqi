@@ -14,7 +14,7 @@
 ### 🔭 Personal Portfolio
 
 ### 🌱 Forage Projects 
-* **[Forage-Accenture-Analysis](https://github.com/moqiqiqi/Python-Data-Analysis/blob/main/Forage/Accenture.ipynb)** 
+* **[Forage-Accenture-Analysis](https://github.com/moqiqiqi/Python-Data-Analysis/tree/main/Forage)** 
 
 ### 📫 Udemy Projects
 * **[Udemy-Python Data Analysis Crash Course](https://github.com/moqiqiqi/Python-Data-Analysis/tree/main/Udemy_Course_Practice_Projects)** 
