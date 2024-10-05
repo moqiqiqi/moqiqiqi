@@ -17,6 +17,7 @@
 * **[Forage-Accenture-Analysis](https://github.com/moqiqiqi/Python-Data-Analysis/tree/main/Forage)**
 
 ### 🦄 ETL Projects
+* **[ETL-Projects](https://github.com/moqiqiqi/etl_projects/tree/main/coursera_data_engineer)**
 
 ### 📫 Udemy Projects
 * **[Udemy-Python Data Analysis Crash Course](https://github.com/moqiqiqi/Python-Data-Analysis/tree/main/Udemy_Course_Practice_Projects)** 
