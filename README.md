@@ -22,7 +22,7 @@
 ### 📫 Udemy Projects
 * **[Udemy-Python Data Analysis Crash Course](https://github.com/moqiqiqi/Python-Data-Analysis/tree/main/Udemy_Course_Practice_Projects)** 
 
-### ⚡ UCC Projects
+### ⚡ Academic Projects
 * **[Data Analysis for Thesis](https://github.com/moqiqiqi/Python-Data-Analysis/tree/main/UCC%20Projects)** 
 * **[BI Assignment](https://github.com/moqiqiqi/Python-Data-Analysis/tree/main/UCC%20Projects)** 
 
