@@ -14,7 +14,8 @@
 ### 🔭 Personal Portfolio
 
 ### 🌱 Forage Projects 
-* **[Forage-Accenture-Analysis](https://github.com/moqiqiqi/Python-Data-Analysis/tree/main/Forage)**
+* **[Accenture-Data-Analysis](https://github.com/moqiqiqi/Python-Data-Analysis/tree/main/Forage)**
+* **[Tata-Data-Visualization]()**
 
 ### 🦄 Coursera Projects
 * **[ETL-Projects](https://github.com/moqiqiqi/etl_projects/tree/main/coursera_data_engineer)**
