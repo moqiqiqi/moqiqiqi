@@ -15,7 +15,7 @@
 
 ### 🌱 Forage Projects 
 * **[Accenture-Data-Analysis](https://github.com/moqiqiqi/Python-Data-Analysis/tree/main/Forage)**
-* **[Tata-Data-Visualization]()**
+* **[Tata-Data-Visualization](https://github.com/moqiqiqi/Python-Data-Analysis/tree/af53ccab94281fbf8a8a09a6e2509a22cff13896/Forage/Tata-Data-Visualization)**
 
 ### 🦄 Coursera Projects
 * **[ETL-Projects](https://github.com/moqiqiqi/etl_projects/tree/main/coursera_data_engineer)**
