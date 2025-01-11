@@ -25,5 +25,5 @@
 ### ⚡ Academic Projects
 * **[Data Analysis for Thesis](https://github.com/moqiqiqi/Python-Data-Analysis/tree/main/UCC%20Projects)** 
 * **[Business Intelligence Analysis](https://github.com/moqiqiqi/Python-Data-Analysis/tree/main/UCC%20Projects)**
-* **[Database Analysis and Design Project - Airman Database Project]**
+* **[Database Analysis and Design Project - Airman Database Project](https://github.com/moqiqiqi/Python-Data-Analysis/tree/34fd3cb8a1aa9fe32db5e75cf0b8101802f59351/UCC_Projects/Airman_Database_Project)**
 
